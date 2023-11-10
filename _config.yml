@@ -29,7 +29,7 @@ github:
   username: ethanaphipps # change to your github username
 
 twitter:
-  username: ethanaphipps # change to your twitter username
+  username:  # change to your twitter username
 
 social:
   # Change to your full name.
@@ -39,7 +39,6 @@ social:
   links:
     - https://github.com/ethanaphipps
     - https://www.linkedin.com/in/ethanaphipps
-    - https://twitter.com/ethanaphipps
 
 google_site_verification: # fill in to your verification string
 
@@ -177,7 +176,7 @@ exclude:
   - docs
   - tools
   - README.md
-  - LICENSE
+  - LICENSE.MIT
   - rollup.config.js
   - package*.json
 

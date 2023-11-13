@@ -105,8 +105,6 @@ assets:
 pwa:
   enabled: true # the option for PWA feature
 
-paginate: 10
-
 # The base URL of your site
 baseurl: ""
 

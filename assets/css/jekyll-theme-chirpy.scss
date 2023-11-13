@@ -1,0 +1,12 @@
+---
+---
+
+@import 'main';
+
+/* append your custom style below */
+
+@media all and (min-width: 850px) {
+	#topbar-wrapper {
+		display: none;
+	}
+}

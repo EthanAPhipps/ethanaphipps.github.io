@@ -1,5 +1,6 @@
 ---
 layout: page
+title: Home
 ---
 I'm a games programmer based in the UK and this is my portfolio.
 

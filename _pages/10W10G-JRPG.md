@@ -1,6 +1,6 @@
 ---
+layout: page
 title: 10 Weeks 10 Games - JRPG
-date: 2018-08-01 00:00:04 -0000
 categories: [10 Weeks 10 Games]
 ---
 To be completed...

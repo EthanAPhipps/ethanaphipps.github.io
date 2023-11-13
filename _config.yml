@@ -108,6 +108,9 @@ pwa:
 # The base URL of your site
 baseurl: ""
 
+include:
+  - _pages
+
 # ------------ The following options are not recommended to be modified ------------------
 
 kramdown:

@@ -1,6 +1,6 @@
 ---
+layout: page
 title: 10 Weeks 10 Games - Runner
-date: 2018-08-01 00:00:05 -0000
 categories: [10 Weeks 10 Games]
 ---
 To be completed...

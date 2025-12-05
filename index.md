@@ -8,7 +8,7 @@ Contact information can be found at the bottom of the sidebar.
 
 # Work Projects
 
-- [Wreckreation - Three Fields Entertainment (January 2024 - January 2026)]({%link Projects/TFE-Wreckreation.md %})
+- [Wreckreation - Three Fields Entertainment (January 2024 - Present)]({%link Projects/TFE-Wreckreation.md %})
 - [Unannounced TimeSplitters Game - Free Radical Design (August 2019 - December 2023)]({% link Projects/FRD-TimeSplitters.md %})
 
 # Personal Projects

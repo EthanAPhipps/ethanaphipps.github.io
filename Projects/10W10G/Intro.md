@@ -8,7 +8,7 @@ Over the years during sixth form and early university I’d given making games i
 
 Doing this proved to be a valuable experience as it challenged me to stick to the weekly deadline and forced me to engage with parts of games I typically didn't consider in the prototypes, such as the title screen.
 
-However, in hindsight, I also burnt myself out with this, as the first game I worked on I spent too much time on, and, while I achieved what I wanted, couldn’t keep up the momentum with the later games, which lacked in content. If I were to do this again I would use proper planning tools like a kanban board to avoid this burnout, which I didn’t know of at the time.
+However, in hindsight, I also burnt myself out with this, as the second game I spent too much time on, and, while I achieved what I wanted, couldn’t keep up the momentum with the later games, which lacked in content and depth. If I were to do this again I would use proper planning tools and schedule time to avoid these inconsistencies.
 
 In order from first to last, I made these games:
 1. [Snake]({% link Projects/10W10G/Snake.md %})
